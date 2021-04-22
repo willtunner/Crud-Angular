@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Fone Bluetooth",
+      "price": "999",
+      "id": 1
+    },
+    {
+      "name": "tenis",
+      "price": "250",
+      "id": 2
+    },
+    {
+      "name": "Gears of War",
+      "price": "350",
+      "id": 3
+    },
+    {
+      "name": "MacBook pro",
+      "price": "999",
+      "id": 4
+    },
+    {
+      "name": "tesd",
+      "price": "555",
+      "id": 5
+    }
+  ]
+}

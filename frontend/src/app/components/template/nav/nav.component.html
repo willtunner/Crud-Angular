@@ -1,0 +1,29 @@
+<mat-sidenav-container>
+  <mat-sidenav class="sidenav" mode="side" opened fixedInViewport="true" fixedTopGap="64">
+    <mat-nav-list class="nav-list">
+      <a mat-list-item routerLink="/">
+        <i class="material-icons">
+          home
+        </i>
+        Inicio
+      </a>
+      <a mat-list-item routerLink="/products">
+        <i class="material-icons">
+          storefront
+        </i>
+        Produtos
+      </a>
+    </mat-nav-list>
+  </mat-sidenav>
+
+  <!-- Estrutura de exibir páginas dentro do sidenav-content -->
+  <mat-sidenav-content class="content">
+    <!-- <app-home></app-home> -->
+    <!-- <app-product-crud></app-product-crud> -->
+
+    <!-- router-outlet é onde é exibido as páginas -->
+    <router-outlet></router-outlet>
+
+  </mat-sidenav-content>
+
+</mat-sidenav-container>
