@@ -13,10 +13,13 @@
 <p> Rode o  `ng serve --o` para rodar </p>
 
 ### O que foi usado:
-> Angular
-> Material Desing
-> JsonServer
-> JavaScript
+> Angular,
+
+> Material Desing,
+
+> JsonServer,
+
+> JavaScript,
 
 # Imagens do projeto
 ![](img/01.jpg)
