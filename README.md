@@ -7,3 +7,6 @@
 
 ### Frontend
 <p> ng serve --o </p>
+
+# Imagens do projeto
+![](img/01.jpg)
