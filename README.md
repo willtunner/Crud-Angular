@@ -21,6 +21,8 @@
 
 > JavaScript,
 
+> TypeScript
+
 # Imagens do projeto
 ![](img/01.jpg)
 ![](img/02.jpg)
